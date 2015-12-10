@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\classes-d4abf866ab9947e8c4c42cf86e22bfcdf7e8b511.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\fluent-hc-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1-11d63a900036ad729a19c9908c3666d6b0691d2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-21a8783258108e5971ee84ed59e61617a953c79b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\classes-66126a9815d97bd829c906c305e4c14dadace2f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-d97ffd1cbd3efbe7865b8c52fdfea63bb4179c8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1829f9483cded887b5e7eb354d9a86e81d377962">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\httpclient-win-4.5.1-3226f636ee543ff2e20d25940e9e4a26ea5ba808.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-1367ab7477e27edbc399186d73610a20b1283407.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bc50092b934857d1ba368fb1d551c52342ccf46f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\classes-9b5266e3055cf03fa5a8c923c843e3b1229176f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\jna-platform-4.1.0-a856df17cd62d268bf0320b6cbdac001202b4e6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\jna-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\jna-4.1.0-fd072659269f0ca23265df2ab56c6d891cb015c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\commons-lang3-3.1-93989de9f1d65816844d970bc3a6c581857e8a2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-f0c83aa58c8d527f7d533faaf262065ef834179a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\httpmime-4.5.1-98ba6e05d739c581ff4cf2fc763d42e24457458a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\commons-codec-1.9-df1c3ae9ea758c24749ea98447a15107136bb8b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-d0883f0a60efa52bb82286e241f2d99d12e9dad7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\libs\httpclient-cache-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6247317086cb12d2a5fe3296afeccb1d3e00525c">
+        <dex dex="C:\Users\Rishabh\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1-71864980511883d0e727710023a816ac11a1ba55.jar" />
+    </item>
+
+</items>
